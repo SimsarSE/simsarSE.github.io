@@ -4,9 +4,9 @@ In recent years in our country, farming products prices is increased highly by t
 
 Use Case Diagram
 ===========
-```
+
 ![alt text](img/UseCaseDiagram.png)
-```
+
 ### Use Case of Registration
 
  1. User open the web page

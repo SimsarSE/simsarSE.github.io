@@ -13,9 +13,20 @@ Use Case Diagram
  2. Click the **registration** button
  3. Fill the registration form correctly
  4. Submit the form
-	1. Validatation of user information
+	1. Validatation of user informations
 	2. If validation successful go to step 4, else go to step step 3
 5. The user check the mail box
 	1. The mail is not sent user click the **resend mail** button and go to step 5
 6. Click the **confirm** button in the mail
 7. Registration completed.
+
+### Use Case Of Selling Product
+
+1. User login the account
+2. User click the **sell product** button which on the profile page
+3. Fill the product information's form
+4. Submit the form
+	1. Validatation of product informations
+	2. If validation successful go to step 5, else go to step step 4
+5. The sale advertisement seem on the profile 
+6. If the user want edit the product profile click the **edit** button, and go to step 3

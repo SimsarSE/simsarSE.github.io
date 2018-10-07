@@ -77,3 +77,12 @@ Use Case Diagram
     2. Seller rate for buyer's reliability and communication
 5. Other users see the rating in user's profile page 
 6. Rating done
+
+### Use Case Of Reporting System
+
+1. User open the user's profile who complaines
+2. User click the report button 
+3. Open the report page 
+4. Choose the report reason and fill the text and upload the file for evidence
+5. Report go the sytem 
+6. System admin evaluate the report

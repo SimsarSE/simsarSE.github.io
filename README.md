@@ -44,7 +44,8 @@ Use Case Diagram
 
 ### Use Case Of Auction System
 
-1. Throughout the auction time who gives the most money is buy the product
+1. The auctions should create 1 week ago before the auction date
+2. Throughout the auction time who gives the most money is buy the product
 
 **Auction For Seller**
 

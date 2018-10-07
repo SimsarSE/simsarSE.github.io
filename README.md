@@ -30,3 +30,14 @@ Use Case Diagram
 	2. If validation successful go to step 5, else go to step step 4
 5. The sale advertisement seem on the profile 
 6. If the user want edit the product profile click the **edit** button, and go to step 3
+
+### Use Case Of Buy Product
+
+1. User login the account
+2. User can search product with filter
+    1. User sort the products (price, kind, date etc.)
+    2. User comparate any product each other and choose whatever user wants    
+3. User comminicate the seller
+4. If user and seller executive trade agreement, user click **contract** button and send feedback the system
+    1. If user and seller do not deal each other, user go to step 2 
+5. System delete the product info

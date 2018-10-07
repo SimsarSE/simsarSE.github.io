@@ -66,3 +66,14 @@ Use Case Diagram
 4. User join the auction he chose
 5. The system send a notification to User, before auction start an hour ago
 6. User start the auction
+
+### Use Case Of Rating System
+
+1. User and buyer aggree with each others
+2. Product come to buyer
+3. Buyer comfirm the product that come
+4. Rating
+    1. Buyer rate for seller's product(product's quality, seller's reliability, seller's communication)
+    2. Seller rate for buyer's reliability and communication
+5. Other users see the rating in user's profile page 
+6. Rating done

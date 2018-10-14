@@ -1,6 +1,21 @@
 ## Purpose of the project
 In recent years in our country, farming products prices is increased highly by the time that consumers buy them. The goal of this platform is to decrease workload, time and economic burden and increase satisfaction of last consumer.
 
+Dev Blog Weekly
+============
+Date | Weekly Work
+----- | -----
+Week 1 (15.10 - 22.10) | Studying Django Tutorial 
+Week 2 (22.10 - 29.10) | Studying Django Tutorial and Making Database Structure
+Week 3 (29.10 - 05.11) | Registration Form for User
+Week 4 (05.11 - 12.11) | Add selling and Buy Product for User
+Week 5 (12.11 - 19.11) | Advertisement and Account Deletion
+Week 6 (19.11 - 26.11) | Rating System
+Week 7 (26.11 - 03.12) | Reporting System
+Week 8 (03.12 - 10.12) | Auction
+Week 9 (10.12 - 17.12) | Auction
+Week 10 (17.12 - 24.12) | Form System
+Week 11 (24.12 - 31.12) | Create Template
 
 Use Case Diagram
 ===========
